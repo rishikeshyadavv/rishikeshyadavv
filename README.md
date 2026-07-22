@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="650" alt="Gojo Satoru Anime Dev Banner" src="https://github.com/user-attachments/assets/f8aed4b2-d63e-4327-90ee-ce7734832b67" />
+  <img width="650" alt="pikachu Anime Dev Banner" src="https://github.com/user-attachments/assets/f8aed4b2-d63e-4327-90ee-ce7734832b67" />
 </div>
 
 <br/>
