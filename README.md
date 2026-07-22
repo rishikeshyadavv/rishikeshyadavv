@@ -1,40 +1,103 @@
 <div align="center">
-  <img width="650" alt="pikachu Anime Dev Banner" src="https://github.com/user-attachments/assets/f8aed4b2-d63e-4327-90ee-ce7734832b67" />
+
+# Hi there, I'm Rishikesh Yadav 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=50&lines=CS+%26+Cybersecurity+Student;Building+Interactive+Web+Apps;Python+%26+C+Developer;Exploring+Simulations+%26+Game+Dev)](https://git.io/typing-svg)
+
+🎓 **Computer Science & Engineering Student** *(Specializing in Cybersecurity)*  
+🚀 Passionate about software development, interactive web applications, and low-level programming.
+
+[LinkedIn](https://linkedin.com/in/rishikeshyadav)
+
 </div>
-
-<br/>
-
-### Web Developer / Software Engineer. Building fast, responsive, and scalable web experiences.
-
-<p align="left">
-  <a href="https://github.com/rishikeshyadavv/"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" hspace="5"/></a>
-  <a href="https://www.linkedin.com/in/rishikeshyaadav"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" hspace="5"/></a>
-</p>
-
-I build **modern frontend interfaces, robust full-stack applications, and clean open-source developer utilities.**
-
-* 🚀 **Frontend Specialist** focused on crafting seamless user experiences with React and Next.js.
-* 📦 **Open Source Contributor** passionate about writing clean, maintainable, and reusable code.
-* ⚡ **Performance Driven** architecture—optimizing web apps for speed, SEO, and accessibility.
 
 ---
 
-### Tech Stack 🛠️
+## 🛠️ Languages & Tech Stack
 
-#### Frontend & Design
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-#### Backend & Databases
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### 💻 Core Languages & Web
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🛡️ Cybersecurity & Systems
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Featured Projects & Submissions
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏆 SIH26 Qualifier Engine</h3>
+      <p align="center">
+        <code>Python</code> • <code>Algorithmic Pipelines</code> • <code>Prototyping</code>
+      </p>
+      <ul>
+        <li><b>Smart India Hackathon University Nomination Project:</b> Engineered a Python solution designed to solve complex problem statements under strict evaluation criteria.</li>
+        <li>Implemented core backend processing logic, modular data handling, and automated problem-solving workflows.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Aayam</h3>
+      <p align="center">
+        <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code>
+      </p>
+      <ul>
+        <li>High-impact frontend platform interface built for interactive national hackathon showcases.</li>
+        <li>Clean DOM structure optimized for fast loading speeds and cross-device responsiveness.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Induction Motor Simulation</h3>
+      <p align="center">
+        <code>HTML5</code> • <code>Interactive Simulation</code> • <code>Web Engineering</code>
+      </p>
+      <ul>
+        <li>Interactive web-based physics & electrical simulation rendering real-time motor behavior.</li>
+        <li>Designed to visually demonstrate electromagnetic torque, speed curves, and motor mechanics directly in the browser.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Antigravity Game</h3>
+      <p align="center">
+        <code>C Programming</code> • <code>Browser-Playable Game Engine</code>
+      </p>
+      <ul>
+        <li>Physics-based arcade game written in C featuring custom anti-gravity mechanic logic.</li>
+        <li>Playable directly in the browser with optimized execution loops and custom key controls.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Activity & Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishikeshyadavv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshyadavv&theme=tokyonight&hide_border=true" width="48%" />
+
+### 🐍 Contribution Graph
+![Snake Animation](https://github.com/rishikeshyadavv/rishikeshyadavv/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Maintained by <b>Rishikesh Yadav</b></sub>
+</div>
