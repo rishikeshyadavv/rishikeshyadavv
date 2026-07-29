@@ -98,5 +98,5 @@
 ---
 
 <div align="center">
-  <sub>Maintained by <b>Rishikesh Yadav</b></sub>
+  <sub>Maintained By <b>Rishikesh Yadav</b></sub>
 </div>
