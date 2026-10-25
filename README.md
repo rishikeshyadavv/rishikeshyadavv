@@ -1,49 +1,73 @@
 <div align="center">
 
-```
-██████╗ ██╗███████╗██╗  ██╗██╗██╗  ██╗███████╗███████╗██╗  ██╗
-██╔══██╗██║██╔════╝██║  ██║██║██║ ██╔╝██╔════╝██╔════╝██║  ██║
-██████╔╝██║███████╗███████║██║█████╔╝ █████╗  ███████╗███████║
-██╔══██╗██║╚════██║██╔══██║██║██╔═██╗ ██╔══╝  ╚════██║██╔══██║
-██║  ██║██║███████║██║  ██║██║██║  ██╗███████╗███████║██║  ██║
-╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+# Rishikesh Yadav
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=560&height=45&lines=CSE+Student+%7C+Cybersecurity+Track;Building+%2F%2F+Breaking+%2F%2F+Learning;Code.+Sleep.+Repeat.+%E2%9A%A1)](https://git.io/typing-svg)
+`security tooling` · `detection pipelines` · `full-stack`
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00F2FE?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/rishikeshyadav)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FF00E4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yadav._.rishikesh/)
+[LinkedIn](https://linkedin.com/in/rishikeshyaadav)
 
 </div>
 
----
+<!-- ASCII PORTRAIT GOES HERE -->
 
-### `whoami`
+<br>
 
-Computer Science & Engineering student specializing in **Cybersecurity**, with a working interest in software development, interactive web applications, and low-level systems programming.
+```text
+rishikesh@dev:~$ cat about.txt
 
----
+  study     B.Tech CSE (Cybersecurity) · Presidency University · 2025–2029
+  base      Bengaluru, India
+  focus     phishing & fraud forensics · packet analysis · cyber risk modeling
+  building  security tools, detection pipelines, applied-AI prototypes
+  habit     ship a working prototype first, polish after
+```
 
-### `stack`
+<br>
+
+## stack
+
+```text
+.
+├── languages     Python · TypeScript · JavaScript · C · C++ · Java · SQL
+├── web           Next.js · React · FastAPI · Flask · Streamlit · HTML/CSS
+├── security      Kali Linux · Wireshark · threat & phishing detection
+│                 packet forensics · FAIR risk modeling · anti-spoofing
+├── data / ai     NetworkX · DuckDB · OpenCV · MediaPipe · Ollama
+└── infra         Git · Linux · Vercel · Render · Firebase · MongoDB Atlas
+```
+
+<br>
+
+## projects
+
+| | project | what it does | built with |
+|---|---|---|---|
+| 🕵️ | [**SnoopFish**](https://github.com/rishikeshyadavv/snoopfish) · [live](https://snoopfish.vercel.app) | Web agents audit vendors and recruiters (domain age, company registry, scam forums) and return a 0–100 trust score with a live forensic dossier | Next.js · FastAPI · SQLite |
+| 🛡️ | **Suspicious Login Detector** | Flags anomalous logins across geographic zones, with a triage dashboard and CSV export | FastAPI · React |
+| 🎣 | [**Phishing Forensics Sandbox**](https://github.com/rishikeshyadavv/aayam) | Chrome extension that inspects suspicious emails and pages in real time, without executing anything on the host | Manifest V3 · Python |
+| 💸 | **Financial Forensics Engine** | Graph analysis that surfaces circular routing and money-muling patterns | Next.js · NetworkX |
+| 📈 | [**VentureGuard**](https://github.com/rishikeshyadavv/SIH26) | FAIR-based cyber risk model plus a knapsack optimizer for security spend | Python |
+| 🧠 | **Deepfake Sentry · Privalens** | Local Vision Transformer media checks, and a privacy-first attendance system with blink-based liveness | ViT · MediaPipe · Flask |
+
+<sub>Also: [Indian Sign Language translator](https://github.com/rishikeshyadavv/Bidirectional-Indian-Sign-Language-translator-) · [Induction motor simulation](https://github.com/rishikeshyadavv/induction-motor-simulation) · [Antigravity game](https://github.com/rishikeshyadavv/antigravity-game)</sub>
+
+<br>
+
+## credentials
+
+```text
+certs        Cisco Ethical Hacker · Cisco Intro to Cybersecurity · CySecK Fundamentals
+             Anthropic Education: MCP Advanced Topics · AI Fluency for Builders
+simulations  Deloitte Cyber · Tata GenAI Data Analytics (Forage)
+hackathons   RIFT '26 · AMD Slingshot · AAYAM '26 · Nerds AI Quest 2.0
+```
+
+<br>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=00F2FE)
-![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c&logoColor=00F2FE)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=1572B6)
-&nbsp;|&nbsp;
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000?style=flat-square&logo=kalilinux&logoColor=557C93)
-![Wireshark](https://img.shields.io/badge/-Wireshark-000?style=flat-square&logo=wireshark&logoColor=1679A7)
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=FCC624)
+<img src="https://github.com/rishikeshyadavv/rishikeshyadavv/raw/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 
-</div>
-
----
-
-<div align="center">
-
-`connection stable — reach out anytime`
+<sub>always building · always breaking (ethically)</sub>
 
 </div>
